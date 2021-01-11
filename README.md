@@ -1,7 +1,6 @@
 # website
 
-check for the updates, sort it out
+this is added in new banch
 
-this is sorted
+issue sorted
 
-this is another issue pull it from update
